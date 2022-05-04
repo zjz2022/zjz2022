@@ -10,4 +10,6 @@
 -  https://zjz2022.github.io/
 -  zjz15019702849@gmail.com
 
-![Metrics](https://metrics.lecoq.io/zjz2022?template=classic&config.timezone=Asia%2FShanghai)
+
+
+[![zjz2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjz2022)](https://github.com/anuraghazra/github-readme-stats)
