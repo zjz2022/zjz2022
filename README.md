@@ -2,7 +2,6 @@
 ### Hi there 👋
 
 
-一个搞后端的。
 
 ### Find me
 
