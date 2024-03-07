@@ -55,7 +55,7 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=MiJiaCoding&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=zjz2022&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjz2022)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiJiaCoding&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zjz2022&layout=compact&langs_count=6)
